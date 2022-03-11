@@ -108,4 +108,4 @@ $(document).ready(function(){
     var email = document.getElementById("email").value;
     alert("submmission received" + name);
   }
-})
+}

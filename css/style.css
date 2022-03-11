@@ -54,43 +54,12 @@
     padding: 150px 0;
 } 
 
-/* .container{
-    max-width: 300px;
-}
-.landing{
-    background-image: url("images.landing/h_img.jpg");
-    height: 100vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-}
-
-.landing h1{
-    padding: 2px;
-    margin: 5px;
-  }
-  .landing p{
-    padding: 2px;
-  }
-  #logo{
-    margin-top: 12px;
-    margin-bottom: 24px;
-    width: 70px;
-    height: 70px;;
-  }
-  #mouse-click{
-    padding-top : 22px;
-    margin-top: 10%;
-    padding-bottom: 30px; 
-    
-  }
-  #mouse-click {
-    animation: bounce 2s infinite;
-  }
   @media only screen and (max-width: 755px){
     #pc1,#pc2,#pc13,#pc4,#pc5,#pc6,#pc7,#pc8{
       width: 100%;
       height: 100%;
       top: 20px;
       left: 16px;
-      padding-top: 20%; */
+      padding-top: 20%;
+    }
+}
