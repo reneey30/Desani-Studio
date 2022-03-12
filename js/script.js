@@ -1,35 +1,36 @@
 $(document).ready(function(){
-    $("#development-image").click(function(){
-      $("#development-image").slideDown('1500').hide('1000');
-      $("#development").show('1500');
+    $("#img2").click(function(){
+      $("#img2").slideDown('1500').hide('1000');
+      $("#develop").show('1500');
     });
-    $("#development").click(function(){
-      $("#development").slideUp('1500');
-      $("#development-image").slideDown('1500');
+    $("#develop").click(function(){
+      $("#develop").slideUp('1500');
+      $("#img2").slideDown('1500');
     });
   });
   
   $(document).ready(function(){
-    $("#design-image").click(function(){
-      $("#design-image").slideDown('1500').hide('1000');
+    $("#img1").click(function(){
+      $("#img1").slideDown('1500').hide('1000');
       $("#design").show('1500');
     });
     $("#design").click(function(){
       $("#design").slideUp('1500');
-      $("#design-image").slideDown('1500');
+      $("#img1").slideDown('1500');
     });
   });
   
   $(document).ready(function(){
-    $("#product-image").click(function(){
-      $("#product-image").slideDown('1500').hide('1000');
+    $("#img3").click(function(){
+      $("#img3").slideDown('1500').hide('1000');
       $("#product").show('1500');
     });
     $("#product").click(function(){
       $("#product").slideUp('1500');
-      $("#product-image").slideDown('1500');
+      $("#img3").slideDown('1500');
     });
   });
+
 
  $("#pc1").mouseenter(function(){
     $(".txt1").show(2000);
@@ -108,4 +109,4 @@ $(document).ready(function(){
     var email = document.getElementById("email").value;
     alert("submmission received" + name);
   }
-}
+  
