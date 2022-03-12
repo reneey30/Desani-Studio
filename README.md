@@ -2,9 +2,9 @@ Delani-Studio
 Author
 IRENE NJERU
 
-Description
+<h1>Description
 Creating a landing page for a fictional studio that implements everything i  have learnt from Bootstrap ,HTML ,CSS and jQuery. 
-
+</h1>
 
 Live Page
 https://reneey30.github.io/Desani-Studio/
@@ -26,7 +26,7 @@ jQuery
 
 Known Bugs
 
-mail chimp API does not function properly.
+None at the moment
 
 Contact Information
 If you have any question or contributions, please email me at [irenenjeru8@gmail.com]
