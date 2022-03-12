@@ -67,8 +67,6 @@ $(document).ready(function(){
    $(".txt4").hide(1000);
   });
 
-
-
   $("#pc5").mouseenter(function(){
     $(".txt5").show(2000);
     
@@ -76,8 +74,6 @@ $(document).ready(function(){
  $("#pc5").mouseleave(function(){
    $(".txt5").hide(1000);
   });
-
-
 
   $("#pc6").mouseenter(function(){
     $(".txt6").show(2000);
@@ -104,7 +100,7 @@ $(document).ready(function(){
     $(".txt8").show(2000); 
 });
 
-  function submit(fo){
+  function submit(form){
     var name= document.getElementById("name").value;
     var email = document.getElementById("email").value;
     alert("submmission received" + name);
