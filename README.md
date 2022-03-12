@@ -37,6 +37,7 @@ MIT License:
 Copyright (c) 2022 IRENE NJERU
 =======
 
+<<<<<<< HEAD
 DELANI STUDIOS
 {Delani studio showcases work of and also takes user information}, 
 By {IRENE NJERU}
@@ -62,3 +63,5 @@ Support and contact details
 License
 Copyright (c) {2022} {IRENE NJERU}
 >>>>>>> 22b9979435a9a79b6ea3bcef713da49acafb515e
+=======
+>>>>>>> c4f017fccb4d2c4282bbc8142218580bba99074b
